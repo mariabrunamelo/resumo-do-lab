@@ -9,10 +9,10 @@ Beneficios e SLA
 
 A computação em nuvem transformou a forma como empresas e indivíduos utilizam tecnologia. Entre os principais benefícios, destaco:
 
-✅ Escalabilidade – Possibilidade de aumentar ou reduzir recursos conforme a demanda.
-✅ Redução de Custos – Pagamento apenas pelo que é utilizado, eliminando grandes investimentos iniciais.
-✅ Segurança – Provedores como a Microsoft oferecem proteção robusta contra ameaças.
-✅ Acessibilidade – Acesso remoto a dados e aplicativos, permitindo trabalho de qualquer lugar.
+Escalabilidade – Possibilidade de aumentar ou reduzir recursos conforme a demanda.
+Redução de Custos – Pagamento apenas pelo que é utilizado, eliminando grandes investimentos iniciais.
+Segurança – Provedores como a Microsoft oferecem proteção robusta contra ameaças.
+Acessibilidade – Acesso remoto a dados e aplicativos, permitindo trabalho de qualquer lugar.
 
 Um Acordo de Nível de Serviço (SLA) define os padrões de qualidade que um provedor de serviços deve garantir. Alguns pontos importantes:
 
@@ -20,4 +20,10 @@ Disponibilidade – Garantia de uptime do serviço (ex: 99,9%).
 Desempenho – Tempo de resposta e latência aceitáveis.
 Compensação – Definição de reembolsos caso o SLA não seja atendido.
 
-Este repositório será atualizado conforme minha jornada no curso evolui. A computação em nuvem representa o futuro da tecnologia, e aprender sobre seus conceitos é essencial para qualquer profissional de TI.
+Modelos de Serviço na Nuvem (IaaS, PaaS, SaaS)
+
+IaaS (Infrastructure as a Service) - Fornece infraestrutura virtualizada, como servidores, redes e armazenamento.
+
+PaaS (Platform as a Service) - Oferece um ambiente gerenciado para desenvolvimento e implantação de aplicativos.
+
+SaaS (Software as a Service) - Softwares hospedados na nuvem acessíveis via navegador, sem necessidade de instalação local.
