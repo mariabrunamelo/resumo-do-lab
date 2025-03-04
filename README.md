@@ -27,3 +27,8 @@ IaaS (Infrastructure as a Service) - Fornece infraestrutura virtualizada, como s
 PaaS (Platform as a Service) - Oferece um ambiente gerenciado para desenvolvimento e implantação de aplicativos.
 
 SaaS (Software as a Service) - Softwares hospedados na nuvem acessíveis via navegador, sem necessidade de instalação local.
+
+Os recursos são as instâncias dos serviços do Azure, como máquinas virtuais, bancos de dados e armazenamento, que podem ser organizados dentro de um Grupo de Recursos. Esse agrupamento facilita o gerenciamento, controle de custos e aplicação de políticas de segurança, permitindo a administração centralizada de múltiplos recursos.
+
+Para gerenciar eficientemente os serviços, o Azure oferece ferramentas como Azure Portal, uma interface gráfica para administração, Azure CLI e PowerShell.
+Uma boa estruturação de regiões, recursos e grupos de recursos é essencial para otimizar desempenho, custos e segurança na nuvem Azure
