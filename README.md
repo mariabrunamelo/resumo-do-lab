@@ -44,46 +44,46 @@ ExpressRoute - estende as redes locais par Azure por meio de uma conexão privad
 
 # Identidade, Acesso e Segurança
 
- Microsoft Entra ID (Active Directory) - é o serviço de gerenciamento de identidade e acesso baseado em nuvem do Microsoft Azure. 
+ #Microsoft Entra ID (Active Directory) - é o serviço de gerenciamento de identidade e acesso baseado em nuvem do Microsoft Azure. 
  - autenticação
  - logon unico - sso
  - gerenciamento de aplicativos
  - negócios para negócios - B2B
  - gerenciamento de dispositivos
-Microsoft Entra Domain Services - é um serviço gerenciado da Microsoft que fornece funcionalidades do Active Directory (AD) na nuvem. Ele permite que aplicativos e serviços que dependem do AD tradicional operem no Azure sem a necessidade de configurar e gerenciar um controlador de domínio físico
+#Microsoft Entra Domain Services - é um serviço gerenciado da Microsoft que fornece funcionalidades do Active Directory (AD) na nuvem. Ele permite que aplicativos e serviços que dependem do AD tradicional operem no Azure sem a necessidade de configurar e gerenciar um controlador de domínio físico
 - obtenha os benefícios dos serviços de domínio baseados em nuvem sem gerenciar os controladores de domínio
 - execute aplicativos herdados (que não podem utilizar os padrões de autenticação modernos) na nuvem
 - Sincronizar automaticamente a partir do Microsoft Entra ID
-Autenticação
+#Autenticação
 - identifica a pessoa ou serviço buscando acesso a um recurso
 - solicita credenciais de acesso legítimo
 - base para criar princípios de identidade e controle de acesso seguros
-Autorização
+#Autorização
 - deterrmina o nível de acesso de uma pessoa ou serviço autenticado
 - define quais dados eles podem acessar e o que podem fazer com eles
-Autenticaação Multifator MFA
+#Autenticaação Multifator MFA
 - fornece segurança adicional para identidades exigindo dois ou mais elementos para autenticação completa
 - estratégia - algo que você sabe, algo que você possui, algo que você é
-Acesso Condicional - monitoramento detalhado
+#Acesso Condicional - monitoramento detalhado
 - associação de usuário ou grupo
 - local do ip
 - dispositivo
 - aplicativo
 - detecção de risco
-Controle de acesso baseado em função - RBAC
+#Controle de acesso baseado em função - RBAC
 - gerenciamento de acesso de granularidade fina
 - divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar
 - habilite o acesso ao portal do azure e o controle de acesso aos recursos
-Confiança Zero
+#Confiança Zero
 - restringe tudo a uma rede 'segura'
 - protege os ativos em qualquer lugar com uma política central
-Proteção completa
+#Proteção completa
 - Camadas/níveis de proteção: segurança física > identidade de acesso > perímetro > rede > computação > aplicativo > dados
 - uma abordagem em camadas para proteger sistema de computador
 - fornece vários níveis de proteção
 - ataques contra uma camada são isolados das camadas subsequentes
-Microsoft Defender para Nuvem - é um serviço de monitoramento que fornece proteção contra ameaças nos datacentets do Azure e locais
-Recursos do Azure
+#Microsoft Defender para Nuvem - é um serviço de monitoramento que fornece proteção contra ameaças nos datacentets do Azure e locais
+#Recursos do Azure Proteção
 - Fornece recomendações de segurança
 - Detectar e bloquear malware
 - Analisar e identificar ataques potenciais
