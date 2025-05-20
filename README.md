@@ -100,5 +100,16 @@ Recursos do Azure Proteção
 - Analisar e identificar ataques potenciais
 - Controle de acessos just-in-time para portas
 
+# Análise de Sentimentos com Language Studio no Azure AI
 
+Análise de texto Resposta a perguntas
+Defina uma base de conhecimento de pares de perguntas e respostas
+- ao inserir perguntas e respostas
+- de um documento de perguntas frequentes existentes
+- usando bate-papo integrado
+
+Serviço de bot do Azure
+- plataforma baseada em nuvem para desenvolvimento e gerenciamento
+- integração com AI Languade e outros serviços
+- Conectividade através de vários canais
 
