@@ -113,3 +113,24 @@ Serviço de bot do Azure
 - integração com AI Languade e outros serviços
 - Conectividade através de vários canais
 
+# Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+
+é um serviço da Microsoft que permite criar buscas inteligentes em grandes volumes de dados. Ele vai muito além de uma simples pesquisa por palavras-chave — com a integração de inteligência artificial, ele consegue entender o conteúdo, extrair informações relevantes e até interpretar linguagem natural
+- Ao usar o AI Search, você pode indexar dados de diferentes fontes (como documentos, bancos de dados ou até imagens) e enriquecer esses dados automaticamente com recursos como reconhecimento de texto em imagens (OCR), tradução, extração de entidades (como nomes, datas, locais) e mais. Isso transforma conteúdo bruto em algo pesquisável e útil.
+- pode ser integrado em aplicativos, portais, sistemas internos ou sites, permitindo que os usuários encontrem rapidamente o que precisam — mesmo em coleções enormes e desorganizadas de documentos.
+
+# O que é o OpenAI do Azure
+
+é a solução de nuvem da microsoft para implantar, personalizar e hospedar modelos de linguagem grandes
+Azure OpenAI combina o poder dos modelos avançados da OpenAI com os recursos empresariais do Azure — como segurança, compliance, controle de acesso e integração com outros serviços Microsoft.
+permite usar a IA de ponta da OpenAI de forma segura, escalável e adaptada para empresas e desenvolvedores no ecossistema Microsoft.
+
+# Explorando os Recursos de IA Generativa com Copilot e OpenAI
+
+Fases do processo par adesenvolver e implemntar um plano de IA responsável: identificar, medida, mitigar e operar
+- Identificar: possiveis danos relevantes para a solução desejada
+- Medida: a presença de danos nas saidas geradas pela solução
+- Mitigar: os danos em varias camadas em sua solução para minimizar a presença e impacto deles
+- Operar: a solução com responsabilidade definindo e seguindo um plano de implantação e de preparação operacional
+
+
